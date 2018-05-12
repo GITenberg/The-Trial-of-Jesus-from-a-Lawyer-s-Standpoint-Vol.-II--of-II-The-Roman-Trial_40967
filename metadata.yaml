@@ -1,0 +1,30 @@
+_repo: The-Trial-of-Jesus-from-a-Lawyer-s-Standpoint-Vol.-II--of-II-The-Roman-Trial_40967
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40967-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chandler, Walter M. (Walter Marion)
+    alias: Chandler, Walter Marion
+    birthdate: 1867
+    deathdate: 1935
+    gutenberg_agent_id: '40915'
+    url: http://www.gutenberg.org/2009/agents/40915
+description: ''
+gutenberg_issued: '2012-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials (Treason) -- Jerusalem'
+- !lcsh 'Jesus Christ -- Trial'
+- !lcc 'BT'
+- !lcsh 'Trials (Blasphemy) -- Jerusalem'
+title: "The Trial of Jesus from a Lawyer's Standpoint, Vol. 2 (of 2)\r\nThe Roman\
+  \ Trial"
+url: http://www.gutenberg.org/ebooks/40967
